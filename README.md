@@ -29,7 +29,6 @@ py test_motor.py
 | `interfaz.py` | Interfaz gráfica Tkinter (paleta estilo OpenCode/Claude) |
 | `main.py` | Punto de entrada |
 | `test_motor.py` | Auto-verificación del motor (asserts) |
-| `GUION_VIDEO.md` | Guion para el video explicativo |
 
 ## Base de conocimiento
 
